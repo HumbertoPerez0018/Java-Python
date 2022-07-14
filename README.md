@@ -5,5 +5,12 @@ Esta es la primera entrada de un README
 
 ** Este un subtitulo
 
+<<<<<<< HEAD
 
 Estamos haciendo un branch
+=======
+Cambios en la rama
+
+** Este un subtitulo
+
+>>>>>>> Humberto
