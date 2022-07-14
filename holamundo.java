@@ -17,3 +17,6 @@ class main{
 	System.out.println("Hello world");	
 	loop();
     }
+}
+
+}
