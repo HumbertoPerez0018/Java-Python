@@ -1,0 +1,16 @@
+﻿idCliente,nombre,apellidoPaterno,apellidoMaterno,fechaNacimiento,sexo,segmento,nacionalidad,rfc,tipoID,numeroID,cuenta,email,TDD
+1,Astrid,Villegas,Berdejo,20/05/1997,Femenino,2,Mexicana,1234,INE,10,123,astrid@gmail.com,102030
+2,Humberto,Perez,Vargas,06/07/1995,Masculino,0,Extranjera,4567,Pasaporte,20,456,jiumbert@gmail.com,415263
+3,Aline,Villegas,Berdejo,18/04/1999,Femenino,1,Mexicana,8963,Licencia,30,789,pepa@gmail.com,748596
+4,Paulette,Villegas,Berdejo,18/04/1999,Femenino,0,Extranjera,1596,Pasaporte,40,321,pig@gmail.com,968574
+5,Minerva,Berdejo,Arias,27/02/1967,Femenino,2,Mexicana,3571,Licencia,50,654,min@gmail.com,635241
+6,Francisco,Villegas,Davalos,26/10/1996,Masculino,0,Mexicana,2596,IFE,60,987,paco@gmail.com,123456
+7,Alejandro,Velasco,Lozano,24/04/1999,Masculino,1,Extranjera,3456,Pasaporte,70,963,javo@gmail.com,456789
+8,Javier,Velasco,Lozano,24/04/1999,Masculino,1,Mexicana,2167,Pasaporte,80,852,hasbro@gmail.com,987456
+9,Erik,Velasco,Lozano,14/07/2000,Masculino,2,Mexicana,3759,INE,90,741,erik@gmail.com,456123
+10,Sarai,Perez,Vargas,18/09/1994,Femenino,0,Extranjera,3489,Pasaporte,100,147,sari@gmail.com,896301
+11,Alejandra,Perez,Vargas,18/09/1994,Femenino,1,Extranjera,3547,Pasaporte,110,258,ale@gmail.com,789630
+12,Evelia,Vargas,Padilla,04/03/1956,Femenino,1,Mexicana,1793,IFE,120,369,bellita@gmail.com,145630
+13,Pelona,Villegas,Berdejo,18/12/2018,Femenino,2,Mexicana,3497,INE,130,159,pelona@gmail.com,563204
+14,Samsara,Perez,Villegas,06/12/2018,Femenino,2,Extranjera,1479,Pasaporte,140,357,sam_hija@gmail.com,749625
+15,Ramira,Villegas,Yubile,16/01/2021,Femenino,0,Extranjera,4321,Pasaporte,150,951,hermosa@gmail.com,334466
